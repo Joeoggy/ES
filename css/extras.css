@@ -1,0 +1,38 @@
+p {
+    font-weight: 100;
+}
+
+
+#mainNav .navbar-nav .nav-item .nav-link.active,
+#mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #c03e24 !important;
+}
+
+
+#mainNav .navbar-nav .nav-item .nav-link {
+    font-weight: 100;
+}
+
+
+.top-bookcover {
+    vertical-align: top;
+}
+
+li {
+    font-weight: 100;
+}
+
+
+.buy-btn {
+    background-color: #c03e24;
+}
+
+
+.buy-logos img {
+    width: 200px;
+}
+
+
+.buy-logos--amazon {
+    margin: 12px 10px 0 -10px;
+}
